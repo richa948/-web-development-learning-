@@ -23,3 +23,21 @@ A basic recreation of Amazon's header and footer using HTML and CSS.
 A simple webpage where a “Love Nature” box stays fixed at the top-right corner of the screen while scrolling through long text.
 
 📂 Folder: `Day02-CSS`
+
+# Day 03 — Navbar & Center Box Layout
+
+**Goal:** Practice using `flexbox` for alignment and navigation layout.
+
+## 🔧 What I Learned
+- How to create a simple navigation bar using `<ul>` and `<li>`.
+- Using `display: flex`, `justify-content`, and `align-items` to center content.
+- Difference between inline and block elements.
+- External CSS linking with `<link rel="stylesheet">`.
+
+## 📂 Files
+- `index.html` — Main structure
+- `style.css` — Styles for navbar and centered box
+
+## 🖥️ Output Preview
+A pink navigation bar with evenly spaced menu items, and a centered blue box inside a pink container.
+
